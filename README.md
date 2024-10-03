@@ -1,4 +1,4 @@
-#### CS Student @ AGH University of Science and Technology, Krakow, Poland
+### 🏫 I'm a frist-year CS Student @ AGH University of Science and Technology, Krakow, Poland
 <!--
 **NieWiemXd/NieWiemXd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
